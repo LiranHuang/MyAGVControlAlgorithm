@@ -1,0 +1,7 @@
+{
+  "broker": "tcp://localhost:1883",
+  "clientId": "agv_node",
+  "topic_cmd": "agv/cmd",
+  "topic_state": "agv/state",
+  "pid": { "kp": 1.0, "ki": 0.0, "kd": 0.1 }
+}
